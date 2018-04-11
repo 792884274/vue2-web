@@ -1,6 +1,8 @@
 # vue2-web
 vue2、vue-router2、webpack2框架
 
+这个架构插件都比较旧了，只作为学习vue使用，正式项目可以使用nuxt之类的企业架构。
+
 [![codebeat badge](https://codebeat.co/badges/c7d14252-0d19-4400-b808-a2bea593c6fe)](https://codebeat.co/projects/github-com-hyy1115-vue2-web-master)
 
 教程：https://segmentfault.com/a/1190000009127162
